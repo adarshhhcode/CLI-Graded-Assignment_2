@@ -1,0 +1,3 @@
+ERROR Database Connection Failed
+ERROR Disk Space Low
+ERROR CPU Overloaded

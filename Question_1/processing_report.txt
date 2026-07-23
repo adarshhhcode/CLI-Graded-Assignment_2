@@ -1,0 +1,5 @@
+student3.txt is a duplicate
+student5.txt is a duplicate
+Files Processed : 5
+Duplicate Files : 2
+Files Backed Up : 3
